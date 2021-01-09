@@ -1,6 +1,6 @@
 # UOLL-I
 
-Questo progetto è stato realizzato in collaborazione con altri tre studenti per il corso di Embedded System tenuto all’università degli studi di Salerno. Lo scopo del progetto consiste nell’utilizzare il microcontrollore STM32 donatoci dall’università per realizzare un embedded system. Ispirati dal film WALL-E e dall’omonimo robot, è stato realizzato un sistema dotato di braccia e ruote cingolate capace di raccogliere all’interno del suo corpo gli oggetti che si trova di fronte.
+Questo progetto è stato realizzato per il corso di Embedded System tenuto all’università degli studi di Salerno. Lo scopo del progetto consiste nell’utilizzare il microcontrollore STM32 donatoci dall’università per realizzare un embedded system. Ispirati dal film WALL-E e dall’omonimo robot, è stato realizzato un sistema dotato di braccia e ruote cingolate capace di raccogliere all’interno del suo corpo gli oggetti che si trova di fronte.
 
 
 <p align="center">
